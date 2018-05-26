@@ -10,7 +10,10 @@
         <module name="config-server" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
+        <module name="server-zipkin" />
         <module name="service-feign" />
+        <module name="service-hi" />
+        <module name="service-miya" />
         <module name="service-ribbon" />
         <module name="service-zuul" />
         <module name="springcloud" />
